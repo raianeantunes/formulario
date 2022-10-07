@@ -13,6 +13,21 @@
     <form>
          <label>NOME</label>
          <imput type="text" id="nome">
+         
+         <label>NOME</label>
+         <imput type="text" id="nome">
+         
+         <label>NOME</label>
+         <imput type="text" id="nome">
+         
+         <div>
+             <p>ESCREVA MAIS</p>
+             <textarea cols="30px" rows="40px"></textarea>
+             
+             <input type="radio" id="circuloradio">
+             <label for="Circuloradio">TELEFONE</label>
+             
+             <input type="checkbox" id="caixa">
     </form>
 </main>
 
