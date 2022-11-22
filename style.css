@@ -1,9 +1,14 @@
 body{
   background: gray;
 }
-form label;
+form label{
  
 
   display: block;
 font-size: 25px;
+}
+
+td{
+  border: 2px solid;
+  border-color: aqua;
 }
